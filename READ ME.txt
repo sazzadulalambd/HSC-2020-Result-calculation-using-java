@@ -11,6 +11,8 @@ PASSWORD : 1234DhA
 
 RUN
 --------------------------------------------------------------------
+At first download the "HSC 2020 Result calculation using java.zip" file
+Then extract it and go to the folder 📂.
 In the location bar writer "cmd" and press enter
 Then in the cmd write"javac Run.java" and press enter
 Then write "java Run" and press enter 

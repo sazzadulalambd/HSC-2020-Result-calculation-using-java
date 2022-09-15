@@ -8,3 +8,12 @@ DEFAULT
 --------------------------------------------------------------------
 USER NAME: teacher@gmail.com
 PASSWORD : 1234DhA
+
+RUN
+--------------------------------------------------------------------
+In the location bar writer "cmd" and press enter
+Then in the cmd write"javac Run.java" and press enter
+Then write "java Run" and press enter 
+Then program will be excite.
+
+Thanks for visiting my code.

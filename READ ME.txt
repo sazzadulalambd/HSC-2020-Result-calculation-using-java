@@ -1,0 +1,10 @@
+***************HSC 2020 Result calculation using java***************
+DEVELOP BY :
+SAZZADUL ALAM SHAWON
+sazzad.sua@gmail.com
+
+
+DEFAULT
+--------------------------------------------------------------------
+USER NAME: teacher@gmail.com
+PASSWORD : 1234DhA
